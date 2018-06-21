@@ -1,0 +1,15 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	font-family: tahoma;
+}
+
+
+.header-title {
+	position: absolute;
+	width:1140px;
+			
+}
